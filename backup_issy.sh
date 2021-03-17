@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 mois=`date +%B`
 jour=`date +%d-%m-%Y`
 heure=`date +%T`
